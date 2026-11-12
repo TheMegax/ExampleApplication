@@ -9,7 +9,7 @@ sudo npm install -g pm2
 pm2 stop example_app
 
 #Change directory to folder where application is downloaded.
-cd ExampleApp
+cd ExampleApplication
 
 #Install application dependencies
 npm install
